@@ -4,6 +4,6 @@
 
 如果你想学习更多数据相关的知识可以加入我的星球，这是一个有趣又实用的数据猩球，无论小白还是资深，一起造芝士！
 
-![知识星球二维码](https://github.com/XRiver/DevOpsTeachingPlatform)
+![知识星球二维码](http://qn.heawave.com/zhihshixingqiu.jpeg)
 
 
